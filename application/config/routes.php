@@ -59,6 +59,7 @@ $route['about'] = 'home/about';
 $route['registration'] = 'home/registration';
 $route['registration2'] = 'home/registration2';
 $route['payment'] = 'home/payment';
+$route['accomodation'] = 'home/accomodation';
 
 //admin
 $route['login'] = 'admin/loginpage';

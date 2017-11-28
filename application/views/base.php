@@ -141,7 +141,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			    	<ul class="nav navbar-nav mobile">
 			    		<li><a href="<?php echo base_url()?>home">Home</a></li>
 			    		<li><a href="<?php echo base_url()?>registration">Register</a></li>
-			    		<li><a href="<?php echo base_url()?>#">Accomodation</a></li>
+			    		<li><a href="<?php echo base_url()?>accomodation">Accomodation</a></li>
 			    		<li><a href="<?php echo base_url()?>about">About</a></li>
 			    	</ul>
 		    	</div>
@@ -157,7 +157,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				    	<li><a class="navbar-brand" href="#"><img style="height: 450%; margin-top: -20px; margin-left: 10%" src="<?php echo base_url();?>assets/images/bdso-logo.png"></a></li>
 				    </ul>
 					<ul class="nav navbar-nav" style="margin-left: 5%;">
-				        <li class="" style="margin-right: 25%;"><a href="#" style="font-size: 14px; ">Accomodation</a></li>
+				        <li class="" style="margin-right: 25%;"><a href="<?php echo base_url();?>accomodation" style="font-size: 14px; ">Accomodation</a></li>
 			      	</ul>
 			      	<ul class="nav navbar-nav" style="margin-left: 10%;">
 				        <li class="" style=""><a href="<?php echo base_url();?>about" style="font-size: 14px;">About</a></li>
