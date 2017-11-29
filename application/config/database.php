@@ -76,8 +76,13 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
+<<<<<<< HEAD
 	'username' => 'root',
 	'password' => '',
+=======
+	'username' => 'appserv',
+	'password' => 'H3ndr4w4n3',
+>>>>>>> b83c5a066974c0fb8ed6872a0e02e0afdb5f130b
 	'database' => 'bdso2017',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

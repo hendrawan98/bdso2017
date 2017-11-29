@@ -61,6 +61,7 @@ class Home extends CI_Controller {
 	}
 	public function accomodation()
 	{
-		
+		$data['content'] = 'accomodation';
+		$this->load->view('base',$data);
 	}
 }
