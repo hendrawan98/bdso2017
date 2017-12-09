@@ -1,10 +1,10 @@
 <div style="text-align: center;">
 	<div class="col-md-12">
 		<div class="col-md-10 col-md-offset-1" style="margin-top:2%; margin-bottom: 8%;">
-			<h1>Accommodation</h1>
+			<h1>Accommodation</h1></br>
 			<div class="col-md-4">
 				<center><div style="width: auto; height: auto;">
-					<img style="width: 100%" src="<?php echo base_url();?>/assets/images/kost.png">
+					<img style="width: 55%" src="<?php echo base_url();?>/assets/images/u18a.png">
 				</div></center>
 				<div style="background-color: rgba(255,255,255,1);">
 					 <h4 class="top20 text-justify font-red"><h3>Kost U 18 A</h3></h4>
@@ -21,7 +21,7 @@
 
 			<div class="col-md-4">
 				<center><div style="width: auto; height: auto;">
-					<img style="width: 100%" src="<?php echo base_url();?>/assets/images/kost.png">
+					<img style="width: 100%" src="<?php echo base_url();?>/assets/images/icon.png">
 				</div></center>
 				<div style="background-color: rgba(255,255,255,1);">
 					 <h4 class="top20 text-justify font-red"><h3>ICON</h3></h4>
@@ -38,7 +38,7 @@
 
 			<div class="col-md-4">
 				<center><div style="width: auto; height: auto;">
-					<img style="width: 100%" src="<?php echo base_url();?>/assets/images/kost.png">
+					<img style="width: 100%" src="<?php echo base_url();?>/assets/images/helena.png">
 				</div></center>
 				<div style="background-color: rgba(255,255,255,1);">
 					 <h4 class="top20 text-justify font-red"><h3>Kost The Helena Home</h3></h4>
@@ -59,7 +59,7 @@
 
 			<div class="col-md-4">
 				<center><div style="width: auto; height: auto;">
-					<img style="width: 100%" src="<?php echo base_url();?>/assets/images/kost.png">
+					<img style="width: 133%" src="<?php echo base_url();?>/assets/images/C3.png">
 				</div></center>
 				<div style="background-color: rgba(255,255,255,1);">
 					 <h4 class="top20 text-justify font-red"><h3>Kost C3</h3></h4>

@@ -117,8 +117,9 @@
 				</div>
 			</div>
 			<div class="col-sm-12" align="center">
-				<button type="submit" class="btn btn-primary" style="float:none; background-color: green">Register</button>
-				<input type="hidden" name="grc-response" value="">
+				<!--button type="submit" class="btn btn-primary" style="float:none; background-color: green">Register</button>
+				<input type="hidden" name="grc-response" value=""-->
+				<input type="button" class="btn btn-primary" value="Register" style="float:none; background-color: green" onclick="alert('Registration Has Been Closed!')">
 			</div>
 		</form>
 	</div>
